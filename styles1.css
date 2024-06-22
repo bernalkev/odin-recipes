@@ -1,0 +1,28 @@
+*{
+    background-color: burlywood;
+    text-align: center;
+}
+
+h1{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightcoral;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    border-radius: 50px; /* All corners rounded equally */
+}
+
+
+#list{
+    color: lightseagreen;
+}
+
+li{
+    text-align: left;
+}
